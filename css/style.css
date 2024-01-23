@@ -67,7 +67,7 @@ body {
 }
 
 .pref {
-  font-size: 0.75rem;
+  font-size: 1.75rem;
   line-height: 1rem;
   color: rgb(31 41 55);
   -webkit-text-decoration-line: underline;
@@ -75,6 +75,10 @@ body {
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   border: none;
   background-color: transparent;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 1.625rem;
+  padding-bottom: 1.625rem;
 }
 
 .pref:hover {
@@ -137,7 +141,7 @@ header::before {
   z-index: -1;
   transform: skewY(-2.5deg);
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("/images/ancient_chamber.png") no-repeat center,
+    url("./images/ancient_chamber.png") no-repeat center,
     linear-gradient(#4e4376, #2b5876);
   background-size: cover;
   border-bottom: 0.2em solid #fff;
