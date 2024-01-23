@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta
+      name="keywords"
+      content="palia, the night sky temple, checklist, night sky temple, vault of the gales, gales, gales vault, bundle, spooky bundle, beach bundle"
+    />
+    <meta name="description" content="The Night Sky Temple Checklist" />
+    <meta name="author" content="Michał Daniel" />
+    <title>The Night Sky Temple Checklist</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/grid.css" />
+    <link rel="stylesheet" href="./css/loading.css" />
+    <link rel="icon" href="./favicon.ico" type="image/x-icon" />
+    <script src="./js/cookies.js"></script>
+    <script src="./js/storage.js"></script>
+    <script src="./js/loadBasicDataAndGenerateHtml.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/party-js@latest/bundle/party.min.js"></script>
+  </head>
+  <body onload="onload()" class="ml-0 mr-0 pl-0 pr-0">
+    <div id="cookies-container" class="d-none">
+      <div class="cookie-card">
+        <span class="title">🍪 Cookie Notice</span>
+        <p class="description">
+          The website only uses cookies to store all checklist data in your browser and information that you have clicked the accept button.
+        </p>
+        <div class="actions">
+          <button onclick="goBack()" class="pref">Decline</button>
+          <button onclick="cookiesAccept()" class="accept">Accept</button>
+        </div>
+      </div>
+    </div>
+    <header>
+      <h1 class="mt-4">The Night Sky Temple Checklist</h1>
+    </header>
+    <main id="main" class="grid">
+        <div class="row center-x center-y">
+            <div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+        </div>
+    </main>
+    <footer class="mr-0 mt-5 ml-0 mb-0 pr-5 pl-5 pt-5 pb-4"> 
+        <div class="col">
+            <span>Rights and additional information</span>
+            <ul>
+                <li>Free SVG Background by <a target="_blank" href="https://bgjar.com">BGJar</a></li>
+                <li>Information in tooltip from <a target="_blank" href="https://palia.wiki.gg/wiki/Palia_Wiki">Palia Wiki</a></li>
+                <li>Screenshots/images from <a target="_blank" href="https://palia.com">Palia</a> </li>
+            </ul>
+        </div>
+        <div class="col text-right">
+            &copy; Copyright <script>document.write(new Date().getFullYear())</script>, Michał Daniel(<a target="_blank" href="https://github.com/dasawanaka">dasawanaka</a>).
+        </div>
+    </footer>
+    <div id="autoSave" class="pl-3 pr-3 pt-3 pb-3 d-none">
+        <img src="./images/save-icon.svg" alt="Save icon">
+    </div>
+    <script src="./js/index.js"></script>
+  </body>
+</html>

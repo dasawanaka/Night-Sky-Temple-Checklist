@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Vault of the Waves",
+    "id": "vault-of-the-waves",
+    "bundles": [
+      {
+        "name": "Spooky",
+        "id": "spooky-bundle",
+        "items": [
+          {
+            "name": "Garden Mantis",
+            "id": "garden-mantis",
+            "max": "1",
+            "img": "./images/garden-mantis.png",
+            "tooltip": "Found around the Kilima Lake biome in Kilima. Also has a chance to be found when foraging around the Kilima Lake biome in Kilima."
+          },
+          {
+            "name": "Vampire Crab",
+            "id": "vampire-crab",
+            "max": "1",
+            "img": "./images/vampire-crab.png",
+            "tooltip": "Vampire Crabs can be found exclusively on the beaches surrounding the Flooded Fortress between the hours of 6:00 PM - 3:00 AM."
+          },
+          {
+            "name": "Mutated Angler",
+            "id": "mutated-angler",
+            "max": "1",
+            "img": "./images/mutated-angler.png",
+            "tooltip": "Found in caves using worms."
+          },
+          {
+            "name": "Void Ray",
+            "id": "void-ray",
+            "max": "1",
+            "img": "./images/void-ray.png",
+            "tooltip": "Found in caves using glow worms."
+          }
+        ]
+      },
+      {
+        "name": "Beach",
+        "id": "beach-bundle",
+        "items": [
+          {
+            "name": "Green Pearl",
+            "id": "green-pearl",
+            "max": "1",
+            "img": "./images/green-pearl.png",
+            "tooltip": "~3% chance to receive from Unopened Oyster"
+          },
+          {
+            "name": "Stripeshell Snail",
+            "id": "stripeshell-snail",
+            "max": "1",
+            "img": "./images/stripeshell-snail.png",
+            "tooltip": "Stripeshell Snails can be found along the coastline in Bahari Bay, including Coral Shores, Lighthouse Lagoon, Beachcomber Cove, and the Flooded Fortress from 6:00 PM - 3:00 AM."
+          },
+          {
+            "name": "Blue Marlin",
+            "id": "blue-marlin",
+            "max": "1",
+            "img": "./images/blue-marlin.png",
+            "tooltip": "Found off the coast of Bahari Bay using worms."
+          },
+          {
+            "name": "Sushi",
+            "id": "sushi",
+            "max": "1",
+            "img": "./images/sushi.png",
+            "tooltip": "Obtaining the Recipe: Fishing from Ponds using a Glow Worm."
+          }
+        ]
+      },
+      {
+        "name": "Freshwater",
+        "id": "freshwater-bundle",
+        "items": [
+          {
+            "name": "Inky Dragonfly",
+            "id": "inky-dragonfly",
+            "max": "1",
+            "img": "./images/inky-dragonfly.png",
+            "tooltip": "The Inky Dragonfly can be found at any time of day near rivers and ponds in Bahari Bay."
+          },
+          {
+            "name": "Trout Dinner",
+            "id": "trout-dinner",
+            "max": "1",
+            "img": "./images/trout-dinner.png",
+            "tooltip": "Obtaining the Recipe: The recipe for Trout Dinner can be found in Einar's Cave after reaching friendship level 3."
+          },
+          {
+            "name": "HydratePro Fertilizer",
+            "id": "hydrate-pro-fertilizer",
+            "max": "5",
+            "img": "./images/hydrate-pro-fertilizer.png",
+            "tooltip": "Can be purchased at the general store in batches of 20 for 40 gold."
+          },
+          {
+            "name": "Giant Goldfish",
+            "id": "giant-goldfish",
+            "max": "1",
+            "img": "./images/giant-goldfish.png",
+            "tooltip": "Found in ponds using glow worms."
+          }
+        ]
+      },
+      {
+        "name": "Magic",
+        "id": "magic-bundle",
+        "items": [
+          {
+            "name": "Fisherman's Brew",
+            "id": "fishermans-brew",
+            "max": "1",
+            "img": "./images/fishermans-brew.png",
+            "tooltip": "Obtaining the Recipe: The recipe for Fisherman's Brew can be purchased from Einar at Fishing Level 5."
+          },
+          {
+            "name": "Enchanted Pupfish",
+            "id": "enchanted-pupfish",
+            "max": "1",
+            "img": "./images/enchanted-pupfish.png",
+            "tooltip": "Found in Kilima Lake using glow worms."
+          },
+          {
+            "name": "Shimmerfin",
+            "id": "shimmerfin",
+            "max": "1",
+            "img": "./images/shimmerfin.png",
+            "tooltip": "Found in Kilima Lake using worms."
+          },
+          {
+            "name": "Long Nosed Unicorn Fish",
+            "id": "long-nosed-unicorn-fish",
+            "max": "1",
+            "img": "./images/long-nosed-unicorn-fish.png",
+            "tooltip": "Found off the coast of Bahari Bay using glow worms during the day."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vault of the Flames",
+    "id": "vault-of-the-flames",
+    "bundles": [
+      {
+        "name": "Flamerod",
+        "id": "flamerod-bundle",
+        "items": [
+          {
+            "name": "Radiant Sunfish",
+            "id": "radiant-sunfish",
+            "max": "1",
+            "img": "./images/radiant-sunfish.png",
+            "tooltip": "Found in Kilima Rivers using worms."
+          },
+          {
+            "name": "Flametongue Ray",
+            "id": "flametongue-ray",
+            "max": "1",
+            "img": "./images/flametongue-ray.png",
+            "tooltip": "Found in Kilima Rivers using glow worms."
+          },
+          {
+            "name": "Striped Sturgeon",
+            "id": "striped-sturgeon",
+            "max": "1",
+            "img": "./images/striped-sturgeon.png",
+            "tooltip": "Found in Kilima Lake using worms in the evening and night."
+          },
+          {
+            "name": "Dawnray",
+            "id": "dawnray",
+            "max": "1",
+            "img": "./images/dawnray.png",
+            "tooltip": "Found in Bahari Rivers without bait in the morning from 3 AM to 6 AM."
+          }
+        ]
+      },
+      {
+        "name": "Emberseeker",
+        "id": "emberseeker-bundle",
+        "items": [
+          {
+            "name": "Emberseeker Medallion",
+            "id": "emberseeker-medallion",
+            "max": "6",
+            "img": "./images/emberseeker-medallion.png",
+            "tooltip": " The first medallion is given to the player by Jina when you complete Vault of the Flames, while the other five are located in treasure chests hidden around Bahari Bay."
+          }
+        ]
+      },
+      {
+        "name": "Brightbug",
+        "id": "brightbug-bundle",
+        "items": [
+          {
+            "name": "Paper Lantern Bug",
+            "id": "paper-lantern-bug",
+            "max": "1",
+            "img": "./images/paper-lantern-bug.png",
+            "tooltip": "Paper Lantern Bugs can be found from 6:00 PM - 3:00 AM along the coastline of Bahari Bay. They can also be found during these same hours in the forests of north Bahari Bay."
+          },
+          {
+            "name": "Bahari Glowbug",
+            "id": "bahari-glowbug",
+            "max": "1",
+            "img": "./images/bahari-glowbug.png",
+            "tooltip": "Bahari Glowbugs can be found from 6:00 PM - 3:00 AM throughout the fields and cliffs south Bahari Bay."
+          },
+          {
+            "name": "Spitfire Cicada",
+            "id": "spitfire-cicada",
+            "max": "5",
+            "img": "./images/spitfire-cicada.png",
+            "tooltip": "Spitfire Cicadas can be found attached to medium and large Sapwood trees anywhere in Bahari Bay between the hours of 3:00 AM - 6:00 PM."
+          },
+          {
+            "name": "Firebreathing Dragonfly",
+            "id": "firebreathing-dragonfly",
+            "max": "1",
+            "img": "./images/firebreathing-dragonfly.png",
+            "tooltip": "The Firebreathing Dragonfly can be found around the Mirror Pond Ruins, Mirror Fields, and by the Daiya Family Farm in Kilima Valley during any time of day."
+          }
+        ]
+      },
+      {
+        "name": "Sear-Chef",
+        "id": "sear-chef-bundle",
+        "items": [
+          {
+            "name": "Chapaa Masala",
+            "id": "chapaa-masala",
+            "max": "1",
+            "img": "./images/chapaa-masala.png",
+            "tooltip": "Obtaining the Recipe: Can be purchased for 2,500 Gold."
+          },
+          {
+            "name": "Heat Root",
+            "id": "heat-root",
+            "max": "1",
+            "img": "./images/heat-root.png",
+            "tooltip": "Found in Bahari Bay on cliffs. There is a 2-minute window from the first pick before it disappears."
+          },
+          {
+            "name": "Phoenixfire Relleno",
+            "id": "phoenixfire-relleno",
+            "max": "1",
+            "img": "./images/phoenixfire-relleno.png",
+            "tooltip": "Obtaining the Recipe: Can be bought at the Cooking Guild Store for 2,000 Gold."
+          },
+          {
+            "name": "Dari Cloves",
+            "id": "dari-cloves",
+            "max": "1",
+            "img": "./images/dari-cloves.png",
+            "tooltip": "Dari Cloves can be found in the Northern part of Bahari Bay, from Flooded Steps up to Thorny Thickets, and over to Statue Garden."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vault of the Winds",
+    "id": "vault-of-the-winds",
+    "bundles": [
+      {
+        "name": "Cloudcurrent",
+        "id": "cloudcurrent-bundle",
+        "items": [
+          {
+            "name": "Rainbow Trout",
+            "id": "rainbow-trout",
+            "max": "1",
+            "img": "./images/rainbow-trout.png",
+            "tooltip": "Found in Kilima Rivers without bait."
+          },
+          {
+            "name": "Thundering Eel",
+            "id": "thundering-eel",
+            "max": "1",
+            "img": "./images/thundering-eel.png",
+            "tooltip": "Found in Bahari Bay rivers using worms."
+          },
+          {
+            "name": "Giant Kilima Stingray",
+            "id": "giant-kilima-stingray",
+            "max": "1",
+            "img": "./images/giant-kilima-stingray.png",
+            "tooltip": "Found in Kilima Lake using glow worms in the morning, day, and evening."
+          },
+          {
+            "name": "Stormray",
+            "id": "stormray",
+            "max": "1",
+            "img": "./images/stormray.png",
+            "tooltip": "Found in Bahari rivers using glow worms in the morning and evening."
+          }
+        ]
+      },
+      {
+        "name": "Fairywind",
+        "id": "fairywind-bundle",
+        "items": [
+          {
+            "name": "Jewelwing Dragonfly",
+            "id": "jewelwing-dragonfly",
+            "max": "1",
+            "img": "./images/jewelwing-dragonfly.png",
+            "tooltip": "The Jewelwing Dragonfly spawns exclusively on the cliffs above Pavel Mines in Bahari Bay. It can be found at any time of day."
+          },
+          {
+            "name": "Gossamer Veil Moth",
+            "id": "gossamer-veil-moth",
+            "max": "1",
+            "img": "./images/gossamer-veil-moth.png",
+            "tooltip": "Gossamer Veil Moths can be found between 6:00 PM - 3:00 AM around Kilima Valley, including Leafhopper Hills and Reflection Fields."
+          },
+          {
+            "name": "Golden Glory Bee",
+            "id": "golden-glory-bee",
+            "max": "1",
+            "img": "./images/golden-glory-bee.png",
+            "tooltip": "A Golden Glory Bee has a 10% chance to spawn after cutting down medium or large Sapwood trees around Kilima Valley during the morning and day."
+          },
+          {
+            "name": "Rainbow-Tipped Butterfly",
+            "id": "rainbow-tipped-butterfly",
+            "max": "1",
+            "img": "./images/rainbow-tipped-butterfly.png",
+            "tooltip": "The Rainbow-Tipped Butterfly can be found between the hours of 3:00 AM - 6:00 PM throughout the fields and cliffs of southern Bahari Bay, including Pulsewater Plains, Hideaway Bluffs, and above the Pavel Mines."
+          }
+        ]
+      },
+      {
+        "name": "Pie in the Sky",
+        "id": "pie-in-the-sky-bundle",
+        "items": [
+          {
+            "name": "Crab Pot Pie",
+            "id": "crab-pot-pie",
+            "max": "1",
+            "img": "./images/crab-pot-pie.png",
+            "tooltip": "Obtaining the Recipe: The recipe can be bought at the Cooking Guild Store for 1,000 Gold."
+          },
+          {
+            "name": "Apple Pie",
+            "id": "apple-pie",
+            "max": "1",
+            "img": "./images/apple-pie.png",
+            "tooltip": "This recipe can be obtained after reaching level three friendship with Delaila and gaining access to her room after completing either Fertile Ground or Berry Blues."
+          },
+          {
+            "name": "Blueberry Pie",
+            "id": "blueberry-pie",
+            "max": "1",
+            "img": "./images/blueberry-pie.png",
+            "tooltip": "Obtaining the Recipe: Can be bought from Reth when you have obtained Cooking.png Cooking level 6 for Gold.png 1,500 Gold."
+          },
+          {
+            "name": "Shepp's Pie",
+            "id": "shepps-pie",
+            "max": "1",
+            "img": "./images/shepps-pie.png",
+            "tooltip": "Obtaining the Recipe: Can be bought at the Cooking Guild Store for Gold.png 1,500 Gold."
+          }
+        ]
+      },
+      {
+        "name": "Stormseeker",
+        "id": "stormseeker-bundle",
+        "items": [
+          {
+            "name": "Stormseeker Medallion",
+            "id": "stormseeker-medallion",
+            "max": "6",
+            "img": "./images/stormseeker-medallion.png",
+            "tooltip": "The first medallion is given to the player by Zeki when you complete Vault of the Gales, while the other five are located in treasure chests hidden around Bahari Bay."
+          }
+        ]
+      }
+    ]
+  }
+]
