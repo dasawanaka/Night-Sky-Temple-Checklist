@@ -213,7 +213,7 @@
           {
             "name": "Spitfire Cicada",
             "id": "spitfire-cicada",
-            "max": "5",
+            "max": "1",
             "img": "./images/spitfire-cicada.png",
             "tooltip": "Spitfire Cicadas can be found attached to medium and large Sapwood trees anywhere in Bahari Bay between the hours of 3:00 AM - 6:00 PM."
           },
@@ -240,7 +240,7 @@
           {
             "name": "Heat Root",
             "id": "heat-root",
-            "max": "1",
+            "max": "5",
             "img": "./images/heat-root.png",
             "tooltip": "Found in Bahari Bay on cliffs. There is a 2-minute window from the first pick before it disappears."
           },
